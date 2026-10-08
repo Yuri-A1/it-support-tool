@@ -10,3 +10,6 @@ Script en Python diseñado para técnicos de soporte Helpdesk L1/L2. Permite rec
 
 ## 🚀 Requisitos y Ejecución
 No requiere instalación de librerías externas (funciona con la biblioteca estándar de Python).
+
+```bash
+python diagnostico.py
